@@ -26,43 +26,31 @@
 ## 🚀 Пет-проекты
 
 ### 🔍 Система анализа репутации компании
-*Анализ новостных текстов с морфологическим анализом и оценкой тональности*
-Стек: PyMorphy2, TextBlob, BERT, Pandas, Matplotlib
-https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github
+*Анализ новостных текстов с морфологическим анализом и оценкой тональности*  
+**Стек:** PyMorphy2, TextBlob, BERT, Pandas, Matplotlib  
+[![View Project](https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github)](https://github.com/your-repo-link)
 
-🏠 Прогнозирование цен на квартиры
+### 🏠 Прогнозирование цен на квартиры
+*ML модель для предсказания цен на данных CIAN*  
+**Стек:** Pandas, Scikit-learn, XGBoost, Matplotlib  
+[![View Project](https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github)](https://github.com/your-repo-link)
 
-ML модель для предсказания цен на данных CIAN
-python
+### 🎯 Рекомендательные системы
+*Сравнительный анализ алгоритмов рекомендаций*  
+**Стек:** Pandas, NumPy, Scikit-learn, Surprise, NetworkX, NLTK  
+[![View Project](https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github)](https://github.com/your-repo-link)
 
-Стек: Pandas, Scikit-learn, XGBoost, Matplotlib
+### 👁️ Сегментация изображений глаза
+*Алгоритмы detection структур глаза с использованием OpenCV*  
+**Стек:** OpenCV, NumPy, Matplotlib, Scikit-image  
+[![View Project](https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github)](https://github.com/your-repo-link)
 
-https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github
-🎯 Рекомендательные системы
+## 📊 GitHub статистика
 
-Сравнительный анализ алгоритмов рекомендаций
-python
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=anastasiiarumak&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anastasiiarumak&layout=compact&theme=radical)
 
-Стек: Pandas, NumPy, Scikit-learn, Surprise, NetworkX, NLTK
-
-https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github
-👁️ Сегментация изображений глаза
-
-Алгоритмы detection структур глаза с использованием OpenCV
-python
-
-Стек: OpenCV, NumPy, Matplotlib, Scikit-image
-
-https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github
-📊 GitHub статистика
-
-https://github-readme-stats.vercel.app/api?username=anastasiiarumak&show_icons=true&theme=radical
-
-https://github-readme-stats.vercel.app/api/top-langs/?username=anastasiiarumak&layout=compact&theme=radical
-🌐 Языки
-
-    Русский - Родной
-
-    Английский - A2 (Elementary)
-
-    Китайский - A2 (Elementary)
+## 🌐 Языки
+- Русский - Родной
+- Английский - A2 (Elementary)
+- Китайский - A2 (Elementary)
