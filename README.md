@@ -14,20 +14,17 @@
 
 ## 📂 Мои проекты
 
-### 🔬 [NmMap](https://github.com/AnastasiaRumak/NmMap)
+### 🔬 [NmMap](https://github.com/AnastasiiaRumak/NmMap)
 Поисковая система для работы с историческими текстами на русском языке
 
-### 🧪 [test-2021](https://github.com/AnastasiaRumak/test-2021)
+### 🧪 [test-2021](https://github.com/AnastasiiaRumak/test-2021)
 Тестовый проект для изучения Java
 
 ## 📊 Статистика GitHub
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=AnastasiaRumak&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=AnastasiiaRumak&show_icons=true&theme=radical)
 
 ## 📫 Как со мной связаться
 - **Email:** [onirpc@pstgu.ru](mailto:onirpc@pstgu.ru)
 - **Telegram:** [@ваш_ник](https://t.me/ваш_ник)
 - **ВКонтакте:** [ссылка на профиль](https://vk.com/...)
 
----
-
-⭐ *Спасибо за посещение моего профиля!*
